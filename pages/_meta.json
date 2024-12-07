@@ -1,0 +1,15 @@
+{
+  "index": "The Chapters of Mojnu",
+  "TheGoalofMyLife": "আমার জীবনের লক্ষ্য",
+  "Primarir-dingulo": "প্রাইমারির দিনগুলি",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://github.com/codebymojnu/",
+    "newWindow": true
+  }
+}
