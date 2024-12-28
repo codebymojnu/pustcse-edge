@@ -1,13 +1,12 @@
 {
-  "index": "মজনুর অলসতা কাটিয়ে উপরে উঠার গল্প",
-  "TheGoalofMyLife": "আমার জীবনের লক্ষ্য",
-  "Primarir-dingulo": "প্রাইমারির দিনগুলি",
-  "AmarKichuLekha": "আমার কিছু লেখা",
-  "amarJibonerPicheyePorarKaronGulo": "আমার জীবনের পিছিয়ে পড়ার কারণগুলো",
-  "amarKichuAchivement": "আমার কিছু এচিভমেন্ট",
-  "kichuDadha&Buddimotta": "ছোটদের এবং বড়দের জন্য কিছু ধাধা ও বুদ্ধিমত্তা",
-  "chakri-jibon": "চাকরি জীবন",
+  "index": "আমার স্বপ্নগুলো",
+  "achivement": "আমার অর্জনগুলো",
+  "je-sopnogulo-puron-koreci": "যে স্বপ্নগুলো পূরণ করেছি",
+  "pichiye-porar-karongulo": "পিছিয়ে পড়লাম কেন?",
+  "amar-kichu-lekha": "আমার কিছু লেখা",
+  "buddimotta-prosno": "বুদ্ধিমত্তা প্রশ্ন", 
   "life-lesson": "জীবনের শিক্ষা",
+  "content-writing-tips": "কন্টেন রাইটিং টিপস",
   "about": {
     "title": "About",
     "type": "page"
